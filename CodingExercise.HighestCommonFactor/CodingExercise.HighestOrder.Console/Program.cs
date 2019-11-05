@@ -24,7 +24,7 @@ namespace CodingExercise.HighestOrder.Console
                 else
                     listofintergers.Add(currentinterger);
             }
-            System.Console.WriteLine($"Highest Order Factor {HighestCommonDivisorFactor.GetHighestCommonDivisor(listofintergers)}");
+            System.Console.WriteLine($"Highest Order Factor {HighestCommonDivisorService.GetHighestCommonDivisor(listofintergers)}");
         }
     }
 }

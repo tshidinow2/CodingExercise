@@ -15,7 +15,7 @@ namespace CodingExercise.HighestOrder.UnitTest
         [Theory , MemberData(nameof(ValidInterger))]
         public void Correct_Highorderfactor_When_Valid_Listofintergerprovider(List<int> ValidIntergerlist,int expectedoutput)
         {
-            Assert.Equal(expectedoutput,HighestCommonDivisorFactor.GetHighestCommonDivisor(ValidIntergerlist));
+            Assert.Equal(expectedoutput,HighestCommonDivisorService.GetHighestCommonDivisor(ValidIntergerlist));
         }
     }
 }

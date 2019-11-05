@@ -22,7 +22,7 @@ namespace CodingExercise.Address.Service
         {
             foreach (var address in addresses)
             {
-                Console.WriteLine(PrettyPrintAddress(address));
+                Print(PrettyPrintAddress(address));
             }
         }
         public void PrettyPrintType(List<Model.Address> addresses, string type)
@@ -31,7 +31,7 @@ namespace CodingExercise.Address.Service
 
             foreach (var address in typeaddresses)
             {
-                Console.WriteLine(PrettyPrintAddress(address));
+                Print(PrettyPrintAddress(address));
             }
         }
         public void ValidateImportedAddress(List<Model.Address> addresses)
@@ -39,7 +39,7 @@ namespace CodingExercise.Address.Service
             foreach (var address in addresses)
             {
                 var addressvalidation = ValidateAddress(address);
-                Console.WriteLine($"validation results Address No {address.Id} : {addressvalidation.isvalid} | {addressvalidation.reason} ");
+                Print($"validation results Address No {address.Id} : {addressvalidation.isvalid} | {addressvalidation.reason} ");
             }
         }
         public (bool isvalid,string reason) ValidateAddress(Model.Address address)
@@ -102,6 +102,11 @@ namespace CodingExercise.Address.Service
                         return (false,"ProvinceOrState is Empty For ZA");
             }
             return (true,"");
+        }
+
+        private static void Print(string value)
+        {
+            Console.WriteLine(value);
         }
     }
 }

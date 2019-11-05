@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CodingExercise.Address\CodingExercise.Address.csproj" />
+    <ProjectReference Include="..\CodingExercise.HighestOrder\CodingExercise.HighestCommonFactor.Domain.csproj" />
   </ItemGroup>
 
 </Project>

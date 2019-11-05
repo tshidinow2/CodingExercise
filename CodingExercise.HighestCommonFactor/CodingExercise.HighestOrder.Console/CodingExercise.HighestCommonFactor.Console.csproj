@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CodingExercise.HighestOrder\CodingExercise.HighestCommonFactor.csproj" />
+    <ProjectReference Include="..\CodingExercise.HighestOrder\CodingExercise.HighestCommonFactor.Domain.csproj" />
   </ItemGroup>
 
 </Project>

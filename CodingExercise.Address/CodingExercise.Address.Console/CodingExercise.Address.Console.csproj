@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CodingExercise.Address\CodingExercise.Address.csproj" />
+    <ProjectReference Include="..\CodingExercise.Address.Domain\CodingExercise.Address.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace CodingExercise.HighestOrder
 {
-    public class HighestCommonDivisorFactor
+    public class HighestCommonDivisorService
     {
         private static int CalculateHighestCommonFactor(List<int> numbers,int currentvalue =  1,int highestcommonfactor = 0)
         {

@@ -1,3 +1,4 @@
+using CodingExercise.Address.Service;
 using System;
 using System.Collections.Generic;
 using Xunit;
@@ -6,10 +7,10 @@ namespace CodingExercise.Address.UnitTest
 {
     public class AddressTest
     {
-        private readonly Service.AddressService addressService;
+        private readonly AddressService addressService;
         public AddressTest()
         {
-            this.addressService = new Service.AddressService();
+            this.addressService = new AddressService();
         }
 
         [Fact]
