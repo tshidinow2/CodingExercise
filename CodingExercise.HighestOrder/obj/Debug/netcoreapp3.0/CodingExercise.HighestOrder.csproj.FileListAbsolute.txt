@@ -1,0 +1,7 @@
+C:\github\CodingExercise\CodingExercise.HighestOrder\bin\Debug\netcoreapp3.0\CodingExercise.HighestOrder.deps.json
+C:\github\CodingExercise\CodingExercise.HighestOrder\bin\Debug\netcoreapp3.0\CodingExercise.HighestOrder.dll
+C:\github\CodingExercise\CodingExercise.HighestOrder\bin\Debug\netcoreapp3.0\CodingExercise.HighestOrder.pdb
+C:\github\CodingExercise\CodingExercise.HighestOrder\obj\Debug\netcoreapp3.0\CodingExercise.HighestOrder.AssemblyInfoInputs.cache
+C:\github\CodingExercise\CodingExercise.HighestOrder\obj\Debug\netcoreapp3.0\CodingExercise.HighestOrder.AssemblyInfo.cs
+C:\github\CodingExercise\CodingExercise.HighestOrder\obj\Debug\netcoreapp3.0\CodingExercise.HighestOrder.dll
+C:\github\CodingExercise\CodingExercise.HighestOrder\obj\Debug\netcoreapp3.0\CodingExercise.HighestOrder.pdb
