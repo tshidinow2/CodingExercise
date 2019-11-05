@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\CodingExercise\\CodingExercise.Address\\CodingExercise.Address.csproj": {}
+    "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address\\CodingExercise.Address.csproj": {}
   },
   "projects": {
-    "C:\\github\\CodingExercise\\CodingExercise.Address\\CodingExercise.Address.csproj": {
+    "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address\\CodingExercise.Address.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\CodingExercise\\CodingExercise.Address\\CodingExercise.Address.csproj",
+        "projectUniqueName": "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address\\CodingExercise.Address.csproj",
         "projectName": "CodingExercise.Address",
-        "projectPath": "C:\\github\\CodingExercise\\CodingExercise.Address\\CodingExercise.Address.csproj",
+        "projectPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address\\CodingExercise.Address.csproj",
         "packagesPath": "C:\\Users\\abfm642\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\CodingExercise\\CodingExercise.Address\\obj\\",
+        "outputPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

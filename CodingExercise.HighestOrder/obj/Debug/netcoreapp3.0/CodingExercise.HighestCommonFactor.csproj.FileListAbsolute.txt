@@ -1,0 +1,8 @@
+C:\github\CodingExerciseInvestec\CodingExercise.HighestOrder\bin\Debug\netcoreapp3.0\CodingExercise.HighestCommonFactor.deps.json
+C:\github\CodingExerciseInvestec\CodingExercise.HighestOrder\bin\Debug\netcoreapp3.0\CodingExercise.HighestCommonFactor.dll
+C:\github\CodingExerciseInvestec\CodingExercise.HighestOrder\bin\Debug\netcoreapp3.0\CodingExercise.HighestCommonFactor.pdb
+C:\github\CodingExerciseInvestec\CodingExercise.HighestOrder\obj\Debug\netcoreapp3.0\CodingExercise.HighestCommonFactor.csprojAssemblyReference.cache
+C:\github\CodingExerciseInvestec\CodingExercise.HighestOrder\obj\Debug\netcoreapp3.0\CodingExercise.HighestCommonFactor.AssemblyInfoInputs.cache
+C:\github\CodingExerciseInvestec\CodingExercise.HighestOrder\obj\Debug\netcoreapp3.0\CodingExercise.HighestCommonFactor.AssemblyInfo.cs
+C:\github\CodingExerciseInvestec\CodingExercise.HighestOrder\obj\Debug\netcoreapp3.0\CodingExercise.HighestCommonFactor.dll
+C:\github\CodingExerciseInvestec\CodingExercise.HighestOrder\obj\Debug\netcoreapp3.0\CodingExercise.HighestCommonFactor.pdb

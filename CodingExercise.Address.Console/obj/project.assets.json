@@ -75,11 +75,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\CodingExercise\\CodingExercise.Address.Console\\CodingExercise.Address.Console.csproj",
+      "projectUniqueName": "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address.Console\\CodingExercise.Address.Console.csproj",
       "projectName": "CodingExercise.Address.Console",
-      "projectPath": "C:\\github\\CodingExercise\\CodingExercise.Address.Console\\CodingExercise.Address.Console.csproj",
+      "projectPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address.Console\\CodingExercise.Address.Console.csproj",
       "packagesPath": "C:\\Users\\abfm642\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\CodingExercise\\CodingExercise.Address.Console\\obj\\",
+      "outputPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -98,8 +98,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\github\\CodingExercise\\CodingExercise.Address\\CodingExercise.Address.csproj": {
-              "projectPath": "C:\\github\\CodingExercise\\CodingExercise.Address\\CodingExercise.Address.csproj"
+            "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address\\CodingExercise.Address.csproj": {
+              "projectPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.Address\\CodingExercise.Address.csproj"
             }
           }
         }

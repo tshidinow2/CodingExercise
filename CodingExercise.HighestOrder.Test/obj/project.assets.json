@@ -6602,11 +6602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\CodingExercise\\CodingExercise.HighestOrder.Test\\CodingExercise.HighestCommonFactor.UnitTest.csproj",
+      "projectUniqueName": "C:\\github\\CodingExerciseInvestec\\CodingExercise.HighestOrder.Test\\CodingExercise.HighestCommonFactor.UnitTest.csproj",
       "projectName": "CodingExercise.HighestCommonFactor.UnitTest",
-      "projectPath": "C:\\github\\CodingExercise\\CodingExercise.HighestOrder.Test\\CodingExercise.HighestCommonFactor.UnitTest.csproj",
+      "projectPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.HighestOrder.Test\\CodingExercise.HighestCommonFactor.UnitTest.csproj",
       "packagesPath": "C:\\Users\\abfm642\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\CodingExercise\\CodingExercise.HighestOrder.Test\\obj\\",
+      "outputPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.HighestOrder.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6625,8 +6625,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\github\\CodingExercise\\CodingExercise.HighestOrder\\CodingExercise.HighestCommonFactor.csproj": {
-              "projectPath": "C:\\github\\CodingExercise\\CodingExercise.HighestOrder\\CodingExercise.HighestCommonFactor.csproj"
+            "C:\\github\\CodingExerciseInvestec\\CodingExercise.HighestOrder\\CodingExercise.HighestCommonFactor.csproj": {
+              "projectPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.HighestOrder\\CodingExercise.HighestCommonFactor.csproj"
             }
           }
         }

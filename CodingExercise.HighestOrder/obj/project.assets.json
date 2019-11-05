@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\CodingExercise\\CodingExercise.HighestOrder\\CodingExercise.HighestCommonFactor.csproj",
+      "projectUniqueName": "C:\\github\\CodingExerciseInvestec\\CodingExercise.HighestOrder\\CodingExercise.HighestCommonFactor.csproj",
       "projectName": "CodingExercise.HighestCommonFactor",
-      "projectPath": "C:\\github\\CodingExercise\\CodingExercise.HighestOrder\\CodingExercise.HighestCommonFactor.csproj",
+      "projectPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.HighestOrder\\CodingExercise.HighestCommonFactor.csproj",
       "packagesPath": "C:\\Users\\abfm642\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\CodingExercise\\CodingExercise.HighestOrder\\obj\\",
+      "outputPath": "C:\\github\\CodingExerciseInvestec\\CodingExercise.HighestOrder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
